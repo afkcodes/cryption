@@ -1,0 +1,25 @@
+.content-rotate {
+    width: 60%;
+    height: 60%;
+    margin: 0 auto;
+    position: relative;
+    align-self: flex-end;
+    margin-bottom: 8%;
+  }
+  .upper {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+  }
+  .lower {
+    display: flex;
+    flex: 4;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+  }
+  

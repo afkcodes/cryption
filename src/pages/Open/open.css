@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color:white;
+    margin-top: 5%;
+}
+.left{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    row-gap:20px;
+    justify-content: center;
+    align-items: center;
+}
+.right{
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+    align-items: center;
+}

@@ -1,0 +1,33 @@
+.container {
+  width: 200px;
+  height: 180px;
+  position: relative;
+}
+.box {
+  width: 200px;
+  height: 180px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* -webkit-box-shadow: 2px 1px 9px 0px rgba(133, 154, 255, 0.75);
+  -moz-box-shadow: 2px 1px 9px 0px rgba(133, 154, 255, 0.75);
+  box-shadow: 2px 1px 9px 0px rgba(133, 154, 255, 0.75); */
+  border-radius: 10px;
+}
+.front {
+  background-color: #162055;
+  transform: rotate(10deg);
+}
+.back {
+  background-color: #342a6a;
+}
+.icon {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: blue;
+  z-index: 100;
+  position: absolute;
+  top: -30px;
+  left: 70px;
+}

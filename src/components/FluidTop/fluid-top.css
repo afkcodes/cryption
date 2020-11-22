@@ -1,0 +1,9 @@
+.fluid-top {
+  position: absolute;
+  width: 250px;
+  height: 263px;
+  right: 0px;
+  top: 15%;
+  
+  background: url('../../assets//3D\ Fluid\ -\ Top.png');
+}

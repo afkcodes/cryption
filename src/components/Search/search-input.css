@@ -1,0 +1,16 @@
+.searchContainer {
+  background: #091136;
+  border: 4px solid #1C2159;
+  /* height: 60px; */
+  width: 60%;
+  border-radius: 20px;
+  position: relative;
+}
+.searchContainer .search {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.searchContainer .button {
+  margin-right: 15px;
+}
