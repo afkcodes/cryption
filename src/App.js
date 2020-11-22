@@ -5,8 +5,8 @@ import Open from './pages/Open/Open';
 function App() {
   return (
     <div className="app">
-      {/* <Home /> */}
-      <Open />
+      <Home />
+      {/* <Open /> */}
     </div>
   );
 }

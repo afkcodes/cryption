@@ -14,9 +14,9 @@ const styles = (theme) => ({
 });
 
 const RotatedContainer = () => (
-  <div className="container">
-    <div className="box back" />
-    <div className="box front">
+  <div className="container-main">
+    <div className="box-main back-main" />
+    <div className="box-main front-main">
       <div className="content-box">
         <div className="title-container">
           <span className="title">ORGANIZATION</span>
